@@ -1,0 +1,4 @@
+{"v":0,"level":30,"name":"newrelic","hostname":"Glorias-MacBook-Air.local","pid":60167,"time":"2019-06-16T01:18:01.966Z","msg":"Using New Relic for Node.js. Agent version: 5.10.0; Node version: v12.3.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Glorias-MacBook-Air.local","pid":60167,"time":"2019-06-16T01:18:02.694Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Glorias-MacBook-Air.local","pid":60167,"time":"2019-06-16T01:18:05.713Z","msg":"Connected to collector-006.newrelic.com:443 with agent run ID BACv7diIDDWIACRHtBL66HddBZlAAAgBAAAjHQECBBL66HYDAAY1LjEwLjAAGUdsb3JpYXMtTWFjQm9vay1BaXIubG9jYWwACVNEQy1wcm94eQ.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Glorias-MacBook-Air.local","pid":60167,"time":"2019-06-16T01:18:05.713Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2377652/applications/318433398","component":"collector_api"}

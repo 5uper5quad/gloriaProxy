@@ -1,0 +1,14 @@
+#grid {
+  display: grid;
+  grid-template-columns: 60% auto;
+  grid-column-gap: 10px;
+};
+
+.leftCol {
+  grid-column-start: 1;
+  grid-column-end: 2;
+};
+
+#languages {
+  grid-column-start: 2;
+};
