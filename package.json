@@ -21,7 +21,7 @@
   "dependencies": {
     "axios": "^0.18.0",
     "body-parser": "^1.18.3",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "newrelic": "^5.10.0",
     "nodemon": "^1.17.5",
     "request": "^2.87.0"
